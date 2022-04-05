@@ -1,0 +1,15 @@
+<form>
+    <label for="login">Login:</label>
+    <br />
+    <input type="text" login="login" />
+    <br />
+    <label for="password">Password:</label>
+    <br />
+    <input type="text" password="password" />
+    <br />
+    <label for="mail">Email:</label>
+    <br />
+    <input type="text" mail="mail" />
+    <br /><br />
+    <button type="submit">Create Account</button>
+</form>
